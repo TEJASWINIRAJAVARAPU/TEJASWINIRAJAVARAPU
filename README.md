@@ -1,26 +1,26 @@
-<p align="center"><h1 align="center">Hi👋 I'm Pureddy Lavanya 💫</h1>
-<h3 align="center">A Passionate Full Stack Developer and Python Developer</h3>
+<p align="center"><h1 align="center">Hi👋 I'm Rajavarapu Tejaswini 💫</h1>
+<h3 align="center">A Passionate Web Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=PureddyLavanya)
+![](https://komarev.com/ghpvc/?username=TEJASWINIRAJAVARAPU)
 <br>
 
 ### :trophy: Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TEJASWINIRAJAVARAPU)](https://github.com/TEJASWINIRAJAVARAPU)
       <br><br>
 🔭 I’m currently working on improving my skills
 
-🌱 I’m currently learning MERN,Django,Python 
+🌱 I’m currently learning front-end
 
 👯 I’m looking to collaborate on open source project
 
-👨‍💻 All of my projects are available at <a href="https://github.com/PureddyLavanya"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
+👨‍💻 All of my projects are available at <a href="https://github.com/TEJASWINIRAJAVARAPU"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
 
 💬 Ask me about html,css,javascript
 
-📫 How to reach me: &nbsp;[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com)
+📫 How to reach me: &nbsp;[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tejaswini18403@gmail.com)](mailto:tejaswini18403@gmail.com)
 
-⚡ Fun fact:Never miss debugging your code
+⚡ Fun fact:Debug your code gives you 
 <br><br>
 
 🛠️ Tools And Skills:<br><br>
